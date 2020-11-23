@@ -3,24 +3,47 @@
   <component name="ContentModelUserStore">
     <attachedFolders />
     <explicitIncludes>
+<<<<<<< HEAD
       <Path>Assets</Path>
+=======
+>>>>>>> parent of 1c1e1b8... Revert "ini commit"
       <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.ide.rider@1.1.4</Path>
       <Path>Library/PackageCache/com.unity.ide.vscode@1.2.2</Path>
+<<<<<<< HEAD
       <Path>Library/PackageCache/com.unity.test-framework@1.1.18</Path>
       <Path>Library/PackageCache/com.unity.textmeshpro@2.1.1</Path>
       <Path>Library/PackageCache/com.unity.timeline@1.2.17</Path>
+=======
+      <Path>Library/PackageCache/com.unity.subsystemregistration@1.0.6</Path>
+      <Path>Library/PackageCache/com.unity.test-framework@1.1.18</Path>
+      <Path>Library/PackageCache/com.unity.textmeshpro@2.1.1</Path>
+      <Path>Library/PackageCache/com.unity.timeline@1.2.17</Path>
+      <Path>Library/PackageCache/com.unity.xr.arcore@2.1.12</Path>
+      <Path>Library/PackageCache/com.unity.xr.arfoundation@2.1.10</Path>
+      <Path>Library/PackageCache/com.unity.xr.arkit@2.1.10</Path>
+      <Path>Library/PackageCache/com.unity.xr.arsubsystems@2.1.3</Path>
+      <Path>Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.4</Path>
+      <Path>Library/PackageCache/com.unity.xr.management@3.2.16</Path>
+>>>>>>> parent of 1c1e1b8... Revert "ini commit"
       <Path>Packages</Path>
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
+<<<<<<< HEAD
       <Path>.git</Path>
+=======
+>>>>>>> parent of 1c1e1b8... Revert "ini commit"
       <Path>.idea</Path>
       <Path>.vs</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
+<<<<<<< HEAD
+=======
+      <Path>UIElementsSchema</Path>
+>>>>>>> parent of 1c1e1b8... Revert "ini commit"
       <Path>obj</Path>
     </explicitExcludes>
   </component>
